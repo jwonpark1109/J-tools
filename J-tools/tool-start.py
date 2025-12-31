@@ -83,7 +83,7 @@ def run_tool(tool_id, registry):
         print(f"❌ '{tool_id}' does not exist. Please check your command.")
 
 if __name__ == "__main__":
-    print("--- J Tool 런처 v1.6 ---")
+    print("--- J Tool Launcher v1.6 ---")
     print("by J Tools 2025 | build 251231")
     print("💡 Tip: Type 'tool /list' to see tools, or 'tool /start {id}' to run.")
     
@@ -114,3 +114,4 @@ if __name__ == "__main__":
             
         else:
             print("❌ Unknown command. Use 'tool /list' or 'tool /start {id}'.")
+
