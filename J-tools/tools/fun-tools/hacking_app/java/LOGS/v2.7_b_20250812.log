@@ -1,0 +1,71 @@
+[INFO] App version: v2.7_b, beta: true
+[.] Loading modules
+[..] Initializing network
+[...] Connecting...
+[22:51:54] [!] Port 8431 (SSH) close
+[22:51:54] [+] Connected to secure shell
+[22:51:55] [+] Password found: MvTKfQHN
+[22:51:56] [+] Password found: MvTKfQHN
+[22:51:56] [!] D-DOS Confirmed.
+[22:51:57] [+] Password found: MvTKfQHN
+[22:51:58] [+] Downloading files...
+[22:51:58] [+] Password found: MvTKfQHN
+[22:51:59] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[22:51:59] [*] Target found at 134.138.101.28
+[22:52:00] [+] Port 52720 (SSH) open
+[22:52:00] [+] Operation complete.
+[22:52:01] [*] Reestablishing connection...
+[22:52:02] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[22:52:03] [!] Port 8431 (SSH) close
+[22:52:04] [!] D-DOS Confirmed.
+[22:52:04] [!] Port 8431 (SSH) close
+[22:52:05] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[22:52:05] [+] Password found: MvTKfQHN
+[22:52:06] [!] Port 25304 (HTTP) close.
+[22:52:06] [!] Port 25304 (HTTP) close.
+[22:52:07] [!] Port 25304 (HTTP) close.
+[22:52:08] [!] ERR 404 Target 55.128.76.179 is No Found.
+[22:52:09] [+] Connected to secure shell
+[22:52:09] [+] Downloading files...
+[22:52:10] [!] Port 8431 (SSH) close
+[22:52:10] [+] Password found: MvTKfQHN
+[22:52:11] [+] Port 41990 open
+[22:52:12] [!] D-DOS Confirmed.
+[22:52:13] [!] Port 8431 (SSH) close
+[22:52:14] [*] Uploading malware...
+[22:52:14] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[22:52:15] [*] Target found at 134.138.101.28
+[22:52:16] [+] Operation complete.
+[22:52:17] [*] Reestablishing connection...
+[22:52:18] [!] Firewall bypassed
+[22:52:18] [+] Downloading files...
+[22:52:19] [+] Port 52720 (SSH) open
+[22:52:20] [!] Backdoor installed successfully.
+[22:52:20] [*] Target found at 134.138.101.28
+[22:52:21] [!] D-DOS Confirmed.
+[22:52:21] [+] Password found: MvTKfQHN
+[22:52:22] [!] Port 25304 (HTTP) close.
+[22:52:22] [*] Reestablishing connection...
+[22:52:23] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[22:52:24] [+] Port 52720 (SSH) open
+[22:52:24] [!] Port 8431 (SSH) close
+[22:52:25] [*] Scanning open ports...
+[22:52:25] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[22:52:26] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[22:52:27] [!] Port 25304 (HTTP) close.
+[22:52:27] [*] Reestablishing connection...
+[22:52:27] [+] D-DOS Complete.
+[22:52:28] [+] Downloading files...
+[22:52:28] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[22:52:29] [+] Operation complete.
+[22:52:30] [!] Port 8431 (SSH) close
+[22:52:31] [+] Connected to secure shell
+[22:52:32] [*] Accessing system...
+[22:52:32] [+] Admin panel compromised
+[22:52:33] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[22:52:34] [!] Connection lost.
+[22:52:34] [+] Password found: MvTKfQHN
+[22:52:35] [+] Port 34854 (HTTP) open
+[22:52:36] [!] Port 8431 (SSH) close
+[22:52:36] [+] Admin panel compromised
+[22:52:37] [+] D-DOS Complete.

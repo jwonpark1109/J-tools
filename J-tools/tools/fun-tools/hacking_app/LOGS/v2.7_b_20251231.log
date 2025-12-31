@@ -1,0 +1,41 @@
+[INFO] App version: v2.7_b, beta: True
+[.] Loading modules
+[..] Initializing network
+[...] Connecting...
+[21:56:47] [!] The data setting cannot be read.
+[SYSTEM] Stop code: ERR_abnormal_data
+[.] Loading modules
+[..] Initializing network
+[...] Connecting...
+[21:51:30] [*] Accessing system...
+[21:51:31] [+] Admin panel compromised
+[21:51:32] [+] Operation complete.
+[21:51:32] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[21:51:33] [+] Port 7344 open
+[2025-12-31 21:51:33] 🚫 악성코드 삭제됨
+[21:51:34] [!] Port 29630 (SSH) close
+[21:51:35] [!] Connection lost.
+[21:51:36] [+] Connected to secure shell
+[21:51:36] [*] Brute forcing password...
+[21:51:37] [!] ERR 404 Target 57.148.227.247 is No Found.
+[21:51:37] [+] Password found: mE7t21wE
+[21:51:38] [!] D-DOS Confirmed.
+[21:51:38] [+] Admin panel compromised
+[21:51:39] [+] Port 59563 (HTTP) open
+[21:51:39] [*] Uploading malware...
+[21:51:40] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[21:51:41] [+] D-DOS Complete.
+[21:51:42] [*] Brute forcing password...
+[21:51:42] [*] Brute forcing password...
+[21:51:43] [*] Uploading malware...
+[21:51:43] [*] Exfiltrating data...
+[21:51:44] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[21:51:44] [!] Backdoor installed successfully.
+[2025-12-31 21:51:44] ⚠️ Backdoor detected!
+[21:51:45] [+] Port 8757 open
+[21:51:46] [*] Brute forcing password...
+[21:51:46] [!] Connection lost.
+[21:51:47] [+] Port 23010 (HTTP) open
+[21:51:48] [*] Target found at 214.176.118.118
+[21:51:48] [*] Exfiltrating data...
+[21:51:49] [+] Port 34260 (HTTP) open

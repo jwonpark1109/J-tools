@@ -1,0 +1,3 @@
+version=v2.7_b
+beta_version=true
+user_version=true

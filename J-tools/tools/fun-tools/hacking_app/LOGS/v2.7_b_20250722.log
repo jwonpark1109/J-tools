@@ -1,0 +1,232 @@
+[INFO] App version: v2.7_b, beta: True
+[.] Loading modules
+[..] Initializing network
+[...] Connecting...
+[15:56:33] [+] Port 15307 (HTTP) open
+[2025-07-22 15:56:33] 🛑 접속 실패: 인증 오류
+[15:56:34] [+] D-DOS Complete.
+[15:56:34] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[15:56:35] [*] Brute forcing password...
+[15:56:35] [*] Brute forcing password...
+[15:56:36] [!] D-DOS Confirmed.
+[15:56:36] [!] Port 49454 (SSH) close
+[2025-07-22 15:56:36] 🚫 악성코드 삭제됨
+[15:56:37] [!] Port 8662 (SSH) close
+[15:56:38] [+] Password found: K6OJMaKc
+[15:56:38] [*] Brute forcing password...
+[15:56:39] [+] Port 8115 open
+[15:56:39] [*] Scanning open ports...
+[15:56:40] [*] Scanning open ports...
+[15:56:41] [+] Connected to secure shell
+[2025-07-22 15:56:41] 🛑 접속 실패: 인증 오류
+[15:56:42] [*] Accessing system...
+[15:56:42] [+] D-DOS Complete.
+[15:56:42] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[15:56:43] [+] Connected to secure shell
+[15:56:44] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[15:56:44] [+] Downloading files...
+[15:56:45] [!] Port 34400 (SSH) close
+[15:56:46] [*] Uploading malware...
+[15:56:46] [!] ERR 404 Target 12.4.16.96 is No Found.
+[15:56:47] [*] Target found at 193.193.96.172
+[15:56:47] [!] D-DOS Confirmed.
+[15:56:48] [*] Brute forcing password...
+[15:56:48] [!] D-DOS Confirmed.
+[15:56:49] [*] Uploading malware...
+[15:56:49] [!] Port 25136 (SSH) close
+[15:56:50] [!] Firewall bypassed
+[15:56:51] [!] Backdoor installed successfully.
+[2025-07-22 15:56:51] ⚠️ Backdoor detected!
+[15:56:52] [*] Exfiltrating data...
+[15:56:52] [+] Password found: nwzRqrbr
+[15:56:53] [+] Admin panel compromised
+[15:56:53] [!] D-DOS Confirmed.
+[15:56:54] [!] ERR 404 Target 116.24.54.46 is No Found.
+[15:56:54] [+] Port 35149 open
+[15:56:55] [!] ERR 404 Target 27.180.37.228 is No Found.
+[15:56:55] [+] Port 27002 (HTTP) open
+[15:56:56] [!] ERR 404 Target 242.255.84.163 is No Found.
+[15:56:57] [+] D-DOS Complete.
+[15:56:58] [!] Backdoor installed successfully.
+[2025-07-22 15:56:58] ⚠️ Backdoor detected!
+[15:56:58] [!] ERR 404 Target 75.103.173.238 is No Found.
+[15:56:59] [!] ERR 404 Target 231.61.171.243 is No Found.
+[15:57:00] [!] Firewall bypassed
+[15:57:01] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[2025-07-22 15:57:01] ⚠️ D-DOS 공격 감지됨!
+[15:57:01] [!] Port 47090 (SSH) close
+[15:57:02] [!] ERR 404 Target 208.241.45.222 is No Found.
+[15:57:03] [*] Scanning open ports...
+[15:57:03] [*] Accessing system...
+[2025-07-22 15:57:03] 🛑 접속 실패: 인증 오류
+[15:57:04] [!] Port 25611 (HTTP) close.
+[15:57:05] [+] Operation complete.
+[15:57:06] [*] Accessing system...
+[2025-07-22 15:57:06] ❌ 시스템 방화벽 활성화됨.
+[15:57:06] [+] Admin panel compromised
+[15:57:07] [*] Target found at 52.74.178.84
+[15:57:08] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[15:57:08] [*] Exfiltrating data...
+[2025-07-22 15:57:08] ⚠️ D-DOS 공격 감지됨!
+[15:57:09] [+] Port 38143 open
+[15:57:09] [+] Password found: RHoQwrPu
+[15:57:10] [+] Admin panel compromised
+[15:57:10] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[15:57:11] [+] Port 13396 (SSH) open
+[SYSTEM] Hacking stopping...
+[.] Loading modules
+[..] Initializing network
+[...] Connecting...
+[15:59:44] [!] Connection lost.
+[15:59:44] [+] Port 40453 (HTTP) open
+[15:59:45] [!] Port 43961 (SSH) close
+[15:59:46] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[15:59:46] [!] Port 15204 (SSH) close
+[15:59:47] [+] Downloading files...
+[15:59:48] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[15:59:49] [!] ERR 404 Target 205.128.134.193 is No Found.
+[15:59:49] [*] Exfiltrating data...
+[15:59:50] [*] Exfiltrating data...
+[15:59:51] [+] Admin panel compromised
+[15:59:52] [+] Port 46623 (SSH) open
+[15:59:52] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[15:59:53] [+] Admin panel compromised
+[15:59:53] [!] Backdoor installed successfully.
+[2025-07-22 15:59:53] ⚠️ Backdoor detected!
+[15:59:55] [+] Port 14726 (SSH) open
+[15:59:55] [*] Scanning open ports...
+[15:59:56] [*] Reestablishing connection...
+[15:59:57] [!] D-DOS Confirmed.
+[15:59:57] [+] Operation complete.
+[15:59:58] [+] Port 58746 (HTTP) open
+[15:59:58] [!] ERR 404 Target 27.48.24.56 is No Found.
+[15:59:59] [*] Exfiltrating data...
+[16:00:00] [!] Connection lost.
+[2025-07-22 16:00:00] ❌ 시스템 방화벽 활성화됨.
+[16:00:00] [+] D-DOS Complete.
+[2025-07-22 16:00:00] 🛑 접속 실패: 인증 오류
+[16:00:01] [+] Downloading files...
+[16:00:02] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[16:00:03] [*] Target found at 81.173.49.172
+[16:00:03] [!] Firewall bypassed
+[16:00:04] [+] Connected to secure shell
+[16:00:04] [*] Target found at 153.66.156.187
+[16:00:05] [+] D-DOS Complete.
+[16:00:06] [!] Port 56829 (SSH) close
+[2025-07-22 16:00:06] 💣 치명적 오류 발생. 로그 기록 중...
+[16:00:06] [!] Backdoor installed successfully.
+[2025-07-22 16:00:06] ⚠️ Backdoor detected!
+[16:00:07] [*] Uploading malware...
+[2025-07-22 16:00:07] 🚫 악성코드 삭제됨
+[16:00:07] [+] Operation complete.
+[16:00:08] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[16:00:09] [!] D-DOS Confirmed.
+[16:00:10] [+] Port 38719 (HTTP) open
+[16:00:11] [!] Port 48320 (SSH) close
+[16:00:11] [*] Reestablishing connection...
+[16:00:12] [*] Uploading malware...
+[16:00:12] [*] Reestablishing connection...
+[16:00:13] [*] Uploading malware...
+[16:00:14] [+] Password found: E3QsseXX
+[16:00:14] [*] Brute forcing password...
+[16:00:15] [*] Accessing system...
+[16:00:16] [*] Reestablishing connection...
+[16:00:17] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[16:00:17] [!] ERR 404 Target 119.155.96.29 is No Found.
+[16:00:18] [*] Target found at 12.244.185.37
+[16:00:18] [+] D-DOS Complete.
+[16:00:19] [*] Brute forcing password...
+[16:00:19] [*] Exfiltrating data...
+[16:00:20] [+] Port 50014 open
+[16:00:21] [!] Connection lost.
+[16:00:22] [!] Port 25345 (SSH) close
+[16:00:22] [+] Admin panel compromised
+[16:00:22] [*] Scanning open ports...
+[16:00:23] [+] Password found: sRFUVpub
+[16:00:24] [+] Operation complete.
+[16:00:24] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[16:00:25] [!] Port 31974 (SSH) close
+[16:00:25] [!] ERR 404 Target 180.24.109.130 is No Found.
+[16:00:26] [+] Connected to secure shell
+[16:00:26] [+] D-DOS Complete.
+[16:00:27] [+] Port 6678 (HTTP) open
+[16:00:28] [+] Connected to secure shell
+[16:00:28] [!] Connection lost.
+[2025-07-22 16:00:29] ⚠️ D-DOS 공격 감지됨!
+[16:00:29] [!] D-DOS Confirmed.
+[16:00:30] [+] Downloading files...
+[16:00:31] [+] Port 52028 (SSH) open
+[16:00:31] [+] Password found: BVaksGWi
+[16:00:32] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[16:00:32] [+] Port 19036 (SSH) open
+[16:00:33] [!] ERR 404 Target 54.123.29.97 is No Found.
+[16:00:34] [!] ERR 404 Target 187.53.182.88 is No Found.
+[16:00:34] [+] Admin panel compromised
+[16:00:35] [+] Operation complete.
+[16:00:35] [*] Uploading malware...
+[16:00:36] [+] Downloading files...
+[16:00:36] [+] Port 63765 (SSH) open
+[16:00:37] [*] Scanning open ports...
+[16:00:38] [*] Uploading malware...
+[16:00:39] [+] Port 7169 (HTTP) open
+[16:00:39] [+] Port 55505 open
+[16:00:40] [!] D-DOS Confirmed.
+[16:00:40] [*] Uploading malware...
+[16:00:41] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[16:00:42] [+] Port 8207 (HTTP) open
+[16:00:42] [*] Exfiltrating data...
+[16:00:43] [+] Downloading files...
+[16:00:44] [*] Accessing system...
+[16:00:44] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[16:00:45] [+] D-DOS Complete.
+[16:00:45] [!] Port 63505 (HTTP) close.
+[16:00:46] [+] D-DOS Complete.
+[16:00:47] [!] Backdoor installed successfully.
+[2025-07-22 16:00:47] ⚠️ Backdoor detected!
+[16:00:47] [!] Connection lost.
+[16:00:48] [+] Port 45395 open
+[16:00:49] [!] Port 54017 (SSH) close
+[16:00:49] [*] Scanning open ports...
+[16:00:50] [+] Port 52488 (HTTP) open
+[2025-07-22 16:00:50] 🛑 접속 실패: 인증 오류
+[16:00:51] [+] Admin panel compromised
+[16:00:52] [+] Port 34636 (HTTP) open
+[16:00:53] [+] Password found: cFcZFpx4
+[16:00:53] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[2025-07-22 16:00:53] 🛑 접속 실패: 인증 오류
+[16:00:54] [+] Connected to secure shell
+[16:00:55] [!] Port 34626 (HTTP) close.
+[2025-07-22 16:00:55] ⚠️ D-DOS 공격 감지됨!
+[16:00:56] [+] Downloading files...
+[16:00:56] [!] Connection lost.
+[16:00:57] [+] Operation complete.
+[16:00:58] [!] Connection lost.
+[16:00:59] [!] D-DOS Confirmed.
+[16:00:59] [!] Connection lost.
+[16:01:00] [+] D-DOS Complete.
+[16:01:00] [!] D-DOS Confirmed.
+[2025-07-22 16:01:00] 🛑 접속 실패: 인증 오류
+[16:01:01] [+] Admin panel compromised
+[16:01:02] [*] Scanning open ports...
+[16:01:03] [*] Brute forcing password...
+[16:01:04] [!] Firewall bypassed
+[16:01:04] [!] ERR 404 Target 237.122.125.52 is No Found.
+[16:01:05] [+] D-DOS Complete.
+[16:01:05] [+] D-DOS Complete.
+[16:01:06] [+] Password found: f1fjG7C4
+[16:01:07] [*] Scanning open ports...
+[16:01:08] [!] Port 47595 (HTTP) close.
+[16:01:08] [!] Backdoor installed successfully.
+[2025-07-22 16:01:08] ⚠️ Backdoor detected!
+[16:01:09] [*] Exfiltrating data...
+[16:01:10] [*] Exfiltrating data...
+[16:01:11] [+] Port 44980 (SSH) open
+[16:01:11] [!] ERR 404 Target 222.150.210.173 is No Found.
+[16:01:12] [+] Port 18955 (HTTP) open
+[16:01:12] [!] Firewall bypassed
+[16:01:13] [*] Target found at 115.198.85.154
+[16:01:14] [+] Admin panel compromised
+[16:01:15] [*] Scanning open ports...
+[2025-07-22 16:01:15] ❌ 시스템 방화벽 활성화됨.
+[16:01:16] [*] Scanning open ports...
+[16:01:17] [!] Port 17591 (SSH) close
