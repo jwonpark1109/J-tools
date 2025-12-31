@@ -1,0 +1,54 @@
+[INFO] App version: v2.7_b, beta: true
+[.] Loading modules
+[..] Initializing network
+[...] Connecting...
+[21:58:05] [+] Port 60155 (HTTP) open
+[21:58:05] [+] D-DOS Complete.
+[21:58:06] [+] Connected to secure shell
+[21:58:07] [+] D-DOS Complete.
+[21:58:07] [+] D-DOS Complete.
+[21:58:08] [+] Port 60155 (HTTP) open
+[21:58:09] [+] Admin panel compromised
+[21:58:10] [+] Port 14113 (SSH) open
+[21:58:11] [!] Firewall bypassed
+[21:58:11] [+] D-DOS Complete.
+[21:58:12] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[21:58:13] [!] Port 8480 (HTTP) close.
+[21:58:14] [+] Port 14113 (SSH) open
+[21:58:15] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[21:58:16] [+] Admin panel compromised
+[21:58:16] [*] Scanning open ports...
+[21:58:17] [+] Downloading files...
+[21:58:17] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[21:58:18] [!] Backdoor installed successfully.
+[21:58:18] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[21:58:19] [+] Downloading files...
+[21:58:19] [+] Downloading files...
+[21:58:20] [+] Port 60155 (HTTP) open
+[21:58:21] [*] Reestablishing connection...
+[21:58:21] [*] Brute forcing password...
+[21:58:22] [!] Port 8480 (HTTP) close.
+[21:58:23] [+] Port 60155 (HTTP) open
+[21:58:23] [!] D-DOS Confirmed.
+[21:58:24] [!] Connection lost.
+[21:58:25] [+] Port 60155 (HTTP) open
+[21:58:26] [*] Reestablishing connection...
+[21:58:27] [!] Connection lost.
+[21:58:27] [*] Reestablishing connection...
+[21:58:28] [!] Port 8480 (HTTP) close.
+[21:58:29] [!] Connection lost.
+[21:58:30] [+] D-DOS Complete.
+[21:58:31] [+] Port 14113 (SSH) open
+[21:58:31] [!] Backdoor installed successfully.
+[21:58:32] [!] ERR 404 Target 78.109.100.65 is No Found.
+[21:58:32] [+] Port 60155 (HTTP) open
+[21:58:33] [!] D-DOS Confirmed.
+[21:58:33] [*] Uploading malware...
+[21:58:34] [+] Port 60155 (HTTP) open
+[21:58:34] [!] Firewall bypassed
+[21:58:35] [+] Port 60155 (HTTP) open
+[21:58:36] [!] Port 53848 (SSH) close
+[SYSTEM] Hacking stopping...
+[.] Loading modules
+[..] Initializing network
+[...] Connecting...

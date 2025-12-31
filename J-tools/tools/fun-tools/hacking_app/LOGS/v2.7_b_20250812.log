@@ -1,0 +1,77 @@
+[INFO] App version: v2.7_b, beta: True
+[.] Loading modules
+[..] Initializing network
+[...] Connecting...
+[22:52:51] [!] D-DOS Confirmed.
+[22:52:52] [!] ERR 404 Target 184.153.128.253 is No Found.
+[22:52:53] [*] Scanning open ports...
+[22:52:53] [+] Password found: OapowZjl
+[22:52:54] [+] D-DOS Complete.
+[22:52:54] [+] Operation complete.
+[22:52:55] [*] Exfiltrating data...
+[2025-08-12 22:52:55] ⚠️ D-DOS 공격 감지됨!
+[22:52:56] [+] Downloading files...
+[22:52:57] [*] Uploading malware...
+[2025-08-12 22:52:57] 🚫 악성코드 삭제됨
+[22:52:57] [*] Brute forcing password...
+[22:52:58] [+] Port 8845 (HTTP) open
+[22:52:58] [+] Port 6323 (HTTP) open
+[22:52:59] [+] Port 4206 open
+[22:53:00] [!] Connection lost.
+[22:53:00] [+] Port 52051 (HTTP) open
+[2025-08-12 22:53:00] ❌ 시스템 방화벽 활성화됨.
+[22:53:00] [*] Brute forcing password...
+[22:53:01] [*] Accessing system...
+[22:53:01] [+] Password found: orA1rLGt
+[22:53:02] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[22:53:03] [!] Connection lost.
+[22:53:03] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[22:53:04] [!] Connection lost.
+[22:53:04] [+] D-DOS Complete.
+[22:53:05] [!] Port 35466 (HTTP) close.
+[22:53:06] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[22:53:06] [!] Port 61188 (HTTP) close.
+[22:53:07] [*] Exfiltrating data...
+[2025-08-12 22:53:07] 🚫 악성코드 삭제됨
+[22:53:08] [*] Target found at 147.191.3.96
+[22:53:09] [!] ERR 404 Target 183.232.28.237 is No Found.
+[22:53:10] [!] Port 11806 (SSH) close
+[22:53:10] [+] Downloading files...
+[22:53:11] [+] Password found: YA4G7Rq3
+[22:53:12] [*] Scanning open ports...
+[22:53:12] [+] Password found: eO9aRYng
+[22:53:13] [*] Exfiltrating data...
+[22:53:13] [+] Port 55355 open
+[22:53:14] [!] Firewall bypassed
+[22:53:15] [*] Accessing system...
+[22:53:16] [+] Port 64172 (HTTP) open
+[22:53:16] [+] Port 56908 (SSH) open
+[22:53:17] [+] Operation complete.
+[22:53:18] [+] Connected to secure shell
+[22:53:19] [!] Attack Failed: Attack Type: Worm computer virus program(aaa.exe) Error Format: Defended(deleted File)
+[22:53:20] [!] Attack Failed: Attack Type: D-DOS Error Format: Defended
+[22:53:20] [+] Operation complete.
+[22:53:20] [!] D-DOS Confirmed.
+[22:53:21] [*] Uploading malware...
+[22:53:22] [+] Operation complete.
+[22:53:22] [*] Exfiltrating data...
+[22:53:23] [+] Port 44145 (SSH) open
+[22:53:24] [+] Connected to secure shell
+[22:53:24] [*] Reestablishing connection...
+[22:53:25] [*] Uploading malware...
+[22:53:26] [*] Uploading malware...
+[22:53:27] [!] Firewall bypassed
+[22:53:28] [+] Port 23822 (HTTP) open
+[22:53:28] [+] Port 42207 open
+[22:53:29] [*] Scanning open ports...
+[22:53:29] [!] Connection lost.
+[22:53:30] [+] Operation complete.
+[2025-08-12 22:53:30] ⚠️ D-DOS 공격 감지됨!
+[22:53:31] [*] Target found at 95.135.62.188
+[22:53:31] [*] Uploading malware...
+[22:53:32] [!] Port 12347 (HTTP) close.
+[2025-08-12 22:53:32] 🚫 악성코드 삭제됨
+[22:53:32] [+] Downloading files...
+[22:53:33] [!] Connection lost.
+[22:53:34] [+] Port 894 (SSH) open
+[22:53:35] [+] D-DOS Complete.
