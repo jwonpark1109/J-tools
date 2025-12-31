@@ -1,0 +1,6 @@
+[ data-seting ]
+main=false
+temp=false
+version-storage=true
+id=1
+data-seting-ver=1.0a-beta
